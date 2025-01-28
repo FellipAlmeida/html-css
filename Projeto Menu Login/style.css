@@ -8,7 +8,6 @@ font-family: "Fira Sans Condensed", serif;
 
  html, body {
     margin: 0;
-    overflow: hidden;
 }
 
 body * {
@@ -128,7 +127,6 @@ body * {
 @media only screen and (max-width: 600px){
    .main-login {
        flex-direction: column;
-       height: 100vh;
    }
    .left-login > h1 {
     display: none;
@@ -144,7 +142,7 @@ body * {
     height: auto;
    }
    .left-login-image {
-    width: 50vh;
+    width: 70vw;
    }
    .card-login {
     width: 90%;
