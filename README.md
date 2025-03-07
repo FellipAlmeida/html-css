@@ -1,4 +1,4 @@
-# html-css
+# HTML CSS BOOTSTRAP
 # Repositório de Mini Sites e Projetos em HTML e CSS
 
 Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de mini sites e projetos desenvolvidos utilizando **HTML** e **CSS**. Cada projeto foi criado com o objetivo de explorar diferentes conceitos, práticas e técnicas de desenvolvimento front-end, como:
@@ -15,7 +15,7 @@ O repositório está organizado em pastas, sendo cada uma delas dedicada a um pr
 - **index.html**: O arquivo principal da página.
 - **style.css**: O arquivo de estilos para o projeto.
 
-## Projeto
+## Projetos
 
 - <a href="https://fellipalmeida.github.io/html-css/Primeiro%20Site%20com%20HTML%20e%20CSS/index.html">Primeiro HTML e CSS</a> (Curso em video) 
 
